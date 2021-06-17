@@ -1,6 +1,8 @@
 # PrecisionTrackingBasedOnPointCloudAndRGBFusion
 
-
+## Mini demo of RGB & point cloud Fusion Result
+![avatar](20210615_PrecisionTrackingPointcloud/pointCloudInterpolation.gif)
+## Presentation of fused point cloud tracking
 ![avatar](20210615_PrecisionTrackingPointcloud/Slide1.jpg)
 ![avatar](20210615_PrecisionTrackingPointcloud/Slide2.jpg)
 ![avatar](20210615_PrecisionTrackingPointcloud/Slide3.jpg)
