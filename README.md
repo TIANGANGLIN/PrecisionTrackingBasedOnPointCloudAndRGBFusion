@@ -12,5 +12,5 @@
 ![avatar](Occlusion_Handling_Based_on_Motion_Estimation/Slide8.PNG)
 ![avatar](Occlusion_Handling_Based_on_Motion_Estimation/Slide9.PNG)
 ![avatar](Occlusion_Handling_Based_on_Motion_Estimation/Slide10.PNG)
-![avatar](Occlusion_Handling_Based_on_Motion_Estimation/Slide11.PNG)
+
 
